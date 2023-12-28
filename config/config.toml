@@ -1,0 +1,10 @@
+# Creampie a program named foo
+[item]
+path="~/.config/foo/foo.conf"  #path to actual config file
+template="foo"                 #template folder name
+
+# Creampie foo css
+[item]
+path="~/.config/foo/foo.css" #path to actual config file
+template="foo"                 #template folder name
+subtemplate="css"              #optional if multiple files are in the template folder
